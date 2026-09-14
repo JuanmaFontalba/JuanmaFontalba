@@ -3,7 +3,7 @@
 
 ## About Me 🙋‍♂️
 
-🔐 Starting my career in **Cybersecurity** with a strong interest in **Ethical Hacking**  
+🔐 Starting my career in **Cybersecurity** with a strong interest in **Ethical Hacking**.  
 💻 **Software Developer** focused on creating apps/websites, task automation, and game development.  
 🧠 **Technical Interests**: Network Security, Penetration Testing, and Backend Development.  
 🏥 **Healthcare background**, bringing strong decision-making, communication, and teamwork skills, especially in high-pressure situations.
