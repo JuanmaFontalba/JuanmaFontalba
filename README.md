@@ -11,7 +11,7 @@
 
 ## 📚 Currently Studying
 
-- 🔐 **Cybersecurity** — preparing for the **eJPT (Junior Penetration Tester)**
+- 🔐 **Cybersecurity** — preparing for the **CompTIA Security+**
 
 
 ## 🚀 Developer Projects
